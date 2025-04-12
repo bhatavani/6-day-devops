@@ -1,4 +1,4 @@
-Date:27/03/2025
+Date: 27/03/2025
 
 Day 1 – Introduction to DevOps and AWS Account Setup
 
