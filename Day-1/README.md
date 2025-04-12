@@ -16,6 +16,7 @@ Key Principles of DevOps:
 3. Continuous Integration & Continuous Delivery (CI/CD): Ensuring that code changes are tested and delivered frequently and reliably.
 
 4. Monitoring and Feedback: Continuously observing system performance and acting on feedback to enhance efficiency.
+   
 
 DevOps Lifecycle:
 
@@ -62,6 +63,7 @@ Step 4: Completed identity verification via OTP sent to the registered mobile nu
 Step 5: Selected the Basic (Free) support plan.
 
 Step 6: Logged in to the AWS Management Console using the registered credentials.
+
 
 Outcomes:
 By the end of the session, we gained a clear understanding of the DevOps philosophy and lifecycle, and we successfully created and accessed our AWS accounts in preparation for practical tasks in the upcoming days.
