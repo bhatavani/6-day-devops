@@ -1,3 +1,5 @@
+Date:27/03/2025
+
 Day 1 – Introduction to DevOps and AWS Account Setup
 
 The first day of our DevOps Skill Lab training began with an insightful session introducing us to the fundamentals of DevOps. The session was conducted through a presentation that explained the core principles, practices, and lifecycle of DevOps. We were also guided through the process of creating our individual AWS (Amazon Web Services) accounts, which will be used for hands-on lab exercises in the upcoming sessions.The concepts were explained through a presentation using slides and visual aids, which helped in understanding the theory in a more structured and effective manner.
