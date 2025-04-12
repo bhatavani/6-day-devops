@@ -215,3 +215,12 @@ Edit
 kubectl get all -n blue-ns
 
 -Verify app deployment and services are running correctly.
+
+
+
+Final Outcome:
+
+Over the course of the 6-day DevOps Skill Lab training, we gained practical, end-to-end exposure to modern DevOps practices by implementing a fully automated CI/CD pipeline using Docker, Kubernetes, and Jenkins. We started by containerizing an IPL web application with Docker, creating Docker images and pushing them to Docker Hub. This was followed by orchestrating containers on Kubernetes using EKS, where we configured deployments, replica sets, and services through YAML manifests. We also explored namespace management, pod scaling, and different service types including LoadBalancer.
+
+The final phase focused on Jenkins integration, where we automated the deployment process by creating pipelines that pulled code from GitHub, built Docker images, and deployed them to EKS clusters. Jenkins was configured on an EC2 instance with necessary plugins and AWS credentials. Overall, the lab enabled us to understand and implement the complete DevOps lifecycle—from coding and building to deploying and monitoring—on a cloud-native infrastructure, setting a solid foundation for real-world DevOps workflows.
+
