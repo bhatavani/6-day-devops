@@ -1,3 +1,5 @@
+Date: 28/03/2025
+
 Day 2 – Basic Linux Commands
 
 The second day of our DevOps Skill Lab training focused on gaining practical experience with essential Linux commands. As Linux is the most widely used operating system in the DevOps and cloud computing domains, mastering these commands is crucial for managing servers and environments effectively. We were introduced to a wide range of commands covering different areas such as file and directory handling, process management, user management, system monitoring, networking, and more. These commands were demonstrated with live examples, allowing us to perform hands-on activities in a Linux environment.
