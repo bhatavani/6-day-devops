@@ -19,24 +19,40 @@ Key Principles of DevOps:
    
 
 DevOps Lifecycle:
+The DevOps lifecycle is a set of continuous and interconnected stages that aim to automate and streamline the process of software development, deployment, and maintenance. Each stage plays a vital role in ensuring the efficient delivery of high-quality software.
 
-The DevOps lifecycle includes several interconnected stages that support continuous development and deployment. These stages are:
+Stages of the DevOps Lifecycle:
+Plan:
+In this initial stage, project requirements are gathered, goals are defined, and tasks are planned.
+ Tools: Jira, Trello
 
-1. Plan: Defining project goals and requirements.
+Develop:
+Developers write, manage, and organize source code using version control systems.
+ Tools: Git, GitHub
 
-2. Develop: Writing and managing source code.
+Build:
+The source code is compiled, dependencies are resolved, and build artifacts are generated.
+ Tools: Maven, Jenkins
 
-3. Build: Compiling code and generating artifacts.
+Test:
+Automated and manual testing is carried out to ensure the application meets quality standards and is free of bugs.
+ Tools: Selenium, JUnit, Postman
 
-4. Test: Performing automated and manual testing.
+Release:
+The application is packaged and prepared for deployment to production or staging environments.
+ Tools: Jenkins
 
-5. Release: Preparing the application for deployment.
+Deploy:
+The application is deployed to the production environment in an automated and consistent manner.
+ Tools: Docker, Kubernetes, Ansible
 
-6. Deploy: Deploying applications to the production environment.
+Operate:
+This stage involves maintaining system performance, managing infrastructure, and ensuring system availability.
+ Tools: Kubernetes, Docker Swarm
 
-7. Operate: Managing infrastructure and maintaining system health.
-
-8. Monitor: Tracking performance and collecting user feedback.
+Monitor:
+System performance is continuously observed, and user feedback is collected to detect issues and improve functionality.
+ Tools: Prometheus, Grafana, Nagios
 
 
 Setting up of AWS Account:
